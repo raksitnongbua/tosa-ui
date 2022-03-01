@@ -25,7 +25,7 @@
   },
   "types": "dist/index.d.ts",
   "files": [
-    "dist",    
+    "dist"
   ],
   "repository": "https://github.com/raksitnongbua/tosa-ui.git",
   "author": "raksitnongbua <tan.raksit@gmail.com>",
