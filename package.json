@@ -1,5 +1,5 @@
 {
-  "name": "tosa-ui",
+  "name": "@raksitnongbua/tosa-ui",
   "version": "0.0.1",
   "description": "tosa-ui is private ui framework for react",
   "main": "dist/cjs/index.js",
@@ -26,5 +26,8 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@raksitnongbua"
+  }
 }
