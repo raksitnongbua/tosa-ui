@@ -27,6 +27,8 @@
   "files": [
     "dist"
   ],
+  "repository": "https://github.com/raksitnongbua/tosa-ui.git",
+  "author": "raksitnongbua <tan.raksit@gmail.com>",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@raksitnongbua"
   }
